@@ -1,0 +1,5 @@
+Observed trends from Heroes of Pymoli Data:
+
+1) An overwhelming majority of players are male and between the ages of 20 and 24.
+2) While females had a higher average purchase price, males spent drastically more (due to the increased population of males).
+3) The distribution of item demand is wide; with over 785 item purchases, the highest selling one was only sold 12 times.
